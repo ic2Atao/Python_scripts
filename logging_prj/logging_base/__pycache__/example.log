@@ -1,0 +1,4 @@
+DEBUG:root:This is debug level to logfile
+INFO:root:This is info level to log file
+WARNING:root:This is warning level to log file
+ERROR:root:This is error level to log file
